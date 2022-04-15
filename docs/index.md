@@ -51,4 +51,10 @@
 
 ## Discord Bots
 
-
+- [stats bot](https://sheat-git.github.io/mk8dx-links/discord-bots/stats){:target="_blank"}
+- [Toad](https://sheat-git.github.io/mk8dx-links/discord-bots/toad){:target="_blank"}
+- [hands up!](https://sheat-git.github.io/mk8dx-links/discord-bots/hands-up){:target="_blank"}
+- [sheat](https://sheat-git.github.io/mk8dx-links/discord-bots/sheat){:target="_blank"}
+- [さかな](https://sheat-git.github.io/mk8dx-links/discord-bots/さかな){:target="_blank"}
+- [ペペロン](https://sheat-git.github.io/mk8dx-links/discord-bots/ペペロン){:target="_blank"}
+- [TeamRankBot](https://sheat-git.github.io/mk8dx-links/discord-bots/teamrank){:target="_blank"}
