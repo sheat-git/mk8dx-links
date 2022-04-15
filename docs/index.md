@@ -42,4 +42,13 @@
 
 ## Discord Invites
 
+- [MKCentral](https://sheat-git.github.io/mk8dx-links/discord-invites/mkc){:target="_blank"}
+- [MKB大会進行](https://sheat-git.github.io/mk8dx-links/discord-invites/mkb大会進行){:target="_blank"}
+- [150cc Lounge](https://sheat-git.github.io/mk8dx-links/discord-invites/150cc-lounge){:target="_blank"}
+- [200cc Lounge](https://sheat-git.github.io/mk8dx-links/discord-invites/200cc-lounge){:target="_blank"}
+- [Battle Lounge](https://sheat-git.github.io/mk8dx-links/discord-invites/battle-lounge){:target="_blank"}
+- [びく民](https://sheat-git.github.io/mk8dx-links/discord-invites/びく民){:target="_blank"}
+
 ## Discord Bots
+
+
