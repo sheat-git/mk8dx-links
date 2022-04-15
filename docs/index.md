@@ -15,7 +15,8 @@
 
 ## Tournaments
 
-
+- [MKCentral](https://sheat-git.github.io/mk8dx-links/tournaments/mkc){:target="_blank"}
+- [Mario Kart Blog](https://sheat-git.github.io/mk8dx-links/tournaments/mkb){:target="_blank"}
 
 ## Lounge Leaderboards
 
