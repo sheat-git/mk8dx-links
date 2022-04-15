@@ -7,7 +7,7 @@
 - [Season 1](/lounge-leaderboards/150cc/S1)
 - [Season 2](/lounge-leaderboards/150cc/S2)
 - [Season 3](/lounge-leaderboards/150cc/S3)
-- [Season 4 (Part 1)](/lounge-leaderboards/150cc/S4_1)
+- [Season 4 (Part 1)](/lounge-leaderboards/150cc/S4-1)
 - [Season 4 (Part 2) ~](/lounge-leaderboards/150cc)
 
 ### 200cc
