@@ -3,7 +3,7 @@
 ## Lounge Leaderboards
 
 <details>
-  <summary>- 150cc</summary>
+  <summary>150cc</summary>
   
-  - a
+  - [Season 1](/lounge-leaderboards/150cc/S1)
 
