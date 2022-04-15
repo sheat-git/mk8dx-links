@@ -9,6 +9,10 @@
 
 ## World Records
 
+- [WR History](https://sheat-git.github.io/mk8dx-links/world-records/wr-history){:target="_blank"}
+- [MKLeaderboards](https://sheat-git.github.io/mk8dx-links/world-records/mkleaderboards){:target="_blank"}
+- [NITA](https://sheat-git.github.io/mk8dx-links/world-records/nita){:target="_blank"}
+
 ## Tournaments
 
 
