@@ -1,2 +1,3 @@
+markdown: CommonMarkGhPages
 plugins:
   - jekyll-redirect-from
